@@ -3,7 +3,7 @@
 
 ![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
-![](https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/43/latest/20190406170624/Bulbasaur.png/200px-Bulbasaur.png){width='100px'}
+![](https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/43/latest/20190406170624/Bulbasaur.png/200px-Bulbasaur.png)
 
 <img src="https://pbs.twimg.com/media/EiAuAS8VoAA1-4T?format=jpg&name=large" alt="JuveR" width="300px">
 
