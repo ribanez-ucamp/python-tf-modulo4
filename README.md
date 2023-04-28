@@ -1,7 +1,7 @@
 # pyhton-tf-mod4
 # Repositorio para el trabajo final del módulo 4
 
-![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){width='100px'}
+![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 ![](https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/43/latest/20190406170624/Bulbasaur.png/200px-Bulbasaur.png){width='100px'}
 
